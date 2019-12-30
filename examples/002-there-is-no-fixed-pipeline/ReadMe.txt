@@ -1,0 +1,1 @@
+There is not fixed pipeline on WebGL.

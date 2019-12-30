@@ -1,0 +1,19 @@
+{
+  "name": "learn-opengl-by-attila-toth-port-to-webgl10-and-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/gl-matrix": "^2.4.5",
+    "@types/requirejs": "^2.1.31"
+  },
+  "dependencies": {
+    "gl-matrix": "^3.1.0"
+  }
+}
